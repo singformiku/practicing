@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fuck you
+=======
+sdsdsdsd
+>>>>>>> 9df8d2bb550c234a3c55de06ad98df639efa022e
